@@ -17,5 +17,5 @@ Yours sincerely, <br>
 Narayanan Arvind <br>
 <br>
 Email : arvindn@gradvalley.in <br>
-Fellow: AI/ML GradValley data Science 2018/19
+Fellow: AI/ML GradValley Data Science 2018/19
 
