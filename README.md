@@ -1,5 +1,6 @@
 Dear everyone <br>
 Good morning! <br>
+18 - Jan - 2019
 <br>
 Subject: the problem concerns the prediction of crime rate from demographic data using linear regression.
 <br>
@@ -13,4 +14,8 @@ the different features. We see that feature X7 has the least influence on the tr
 <br>
 Thanks and regards, <br>
 Yours sincerely, <br>
-Narayanan Arvind
+Narayanan Arvind <br>
+<br>
+Email : arvindn@gradvalley.in
+Fellow: AI/ML GradValley data Science 2018/19
+
